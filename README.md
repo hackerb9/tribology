@@ -23,7 +23,7 @@ An ideal test will run for 7 days straight.
 
 Results will go here.
 
-### Test 001: Punched from self stick felt pad
+### Felt Pad #1: Punched from self stick felt pad
 
 | | |
 |-----|-----|
@@ -32,9 +32,40 @@ Results will go here.
 | Filament length | Longer than original | 
 | Density | Loosely packed compared to original, but that may be because the original has been used for decades. |
 | Notes| This pad had fragments of dried glue which was removed under a microscope before testing. | 
+
+#### Trial 1-A
+
+| | |
+|-|-|
 | Test duration | >24 hours |
-| Testing method | Apple II attempting to boot a blank disk |
+| Testing method | Apple II attempting to boot a fresh disk |
 | Track # (of 40) | 0 (outermost) |
 | Test summary | **Fail** |
 
-Results: Track 0 has a black ring. Data does not appear to be affected. 
+Results: Track 0 has a black ring on the side facing the felt. That ring has data as the other side of the disk was formatted before the test, but it does not appear to have been affected at all. 
+
+#### Trial 1-B
+
+This is the same felt pad as in Trial 1-A. 
+
+| | |
+|-|-|
+| Test duration | >24 hours |
+| Testing method | [TRIBOLOGY.bas](TRIBOLOGY.bas) |
+| Track # (of 40) | 22 |
+| Test summary | **Pass** |
+
+There do appear to be light etch marks visible only when held to the light, but they are on side A, which is touching the head, not the felt. These did not occur in Trial 1-A. Could the felt be pushing too hard? Could it be a density issue? Or is it a problem with this drive's head? 
+
+#### Trial 1-C
+
+This is the same felt pad as in Trial 1-B, but after being removed, examined under a microscope, and had the top layer and excess filaments trimmed off. The disk was the same from Trial 1-B since no marks had been left on the felt side. The drive head was also examined and cleaned. 
+
+| | |
+|-|-|
+| Test duration | 12 hours |
+| Testing method | [TRIBOLOGY.bas](TRIBOLOGY.bas) |
+| Track # (of 40) | 17 |
+| Test summary | **Pass** |
+
+No marks on felt side. No apparent new marks on head side.
