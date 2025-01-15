@@ -21,7 +21,27 @@ An ideal test will run for 7 days straight.
 
 ## Test results
 
-Results will go here.
+### Old (original?) felt pad in a Drive II
+
+| | |
+|-----|-----|
+|Origin| Likely originally shipped with the Apple Drive II |
+| Material | Synthetic (melts instead of burning) |
+| Filament length | Short | 
+| Density | Firmly packed, coloration is yellowish brown, probably from age. |
+| Notes| The floppy disk used in this test was not new, unlike the other tests. This also used a different drive mechanism.| 
+
+#### Trial 0-A
+
+| | |
+|-|-|
+| Test duration | >24 hours |
+| Testing method | [TRIBOLOGY.bas](TRIBOLOGY.bas) |
+| Track # (of 40) | 12 |
+| Test summary | **Pass** |
+
+Results: No noticeable difference. However, concentric rings at every track are noticeable under a microscope, so perhaps this floppy has already been worn down? 
+
 
 ### Felt Pad #1: Punched from self stick felt pad
 
@@ -69,3 +89,24 @@ This is the same felt pad as in Trial 1-B, but after being removed, examined und
 | Test summary | **Pass** |
 
 No marks on felt side. No apparent new marks on head side.
+
+### Felt Pad #2: Punched from self stick felt pad
+
+| | |
+|-----|-----|
+|Origin| unknown (gift from deramp5113) |
+| Material | Synthetic (melts instead of burning) |
+| Filament length | Longer than original | 
+| Density | Loosely packed compared to original, but that may be because the original has been used for decades. |
+| Notes| This new pad is from a second batch sent to me by deramp; the glue on it was not dried out. The same drive mechanism was used as in the other tests; only the felt pad and its plastic holder were replaced.| 
+
+#### Trial 2-A
+
+| | |
+|-|-|
+| Test duration | 12 hours |
+| Testing method | [TRIBOLOGY.bas](TRIBOLOGY.bas) |
+| Track # (of 40) | 30 |
+| Test summary | **Fail** |
+
+Results: Track 30 has a faint, light ring on the side facing the felt. On the reverse (head) side, there is a prominent groove at track 30 which appears dark or light depending upon the angle of the light. 
