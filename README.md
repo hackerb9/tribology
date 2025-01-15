@@ -1,23 +1,57 @@
 # The Trouble With (amateur) Tribology
 
-This repository is for investigating how the parts in the Drive II for
-the Apple II computer wear down. (The study of wear is called
-"tribology"). In particular, this was motivated by attempting to find
-a suitable felt replacement for the head pressure pad that would not
-mar the surface.
+This repository is for investigating how floppy disks wear down
+so that the hobbyists, curators, and retro-computer archaeologists
+can keep these beasts from the dawn of the computer-age alive
+as best they can with what materials are now available.
+
+## Motivation
+
+Currently there is a lack of 
+information about the correct replacement for the felt 
+pressure pad seen in single-sided disk drives used in
+early microcomputers. The pad which pushes 
+the rotating diskette against the read/write head
+and (intuitively) using the wrong material can lead
+to the disk wearing out prematurely.
+
+At the time the drives were made (late 1970s to early 1980s), 
+professional research into the  wear properties was limited
+because floppy disks were abundant and one could just buy
+replacement pads from the manufacturer. (Shugart recommendeded
+doing so every 10,000 hours, if I recall correctly). 
+
+There are plenty of anecdotal stories of substitute materials 
+people have used that "work" to allow the drive to read and write,
+but no information about which materials cause the least damage to magnetic media.
+
+The hope is that by releasing a program which can make testing
+easier, those who care about such things will be inspired to
+run tests and share the results. As the most commonly available single-sided
+drive was the Drive II used in the Apple II line of computers, [this
+program](TRIBOLOGY.bas) is written in Applesoft BASIC for a system running 
+Apple's DOS 3.3.
+
+## Usage
 
 In order to test a component, use the TRIBOLOGY TRIAL program which
 prompts for a track to move the head to and then cycles around on it
 forever, perhaps scraping off the magnetic material and etching a ring
 into the diskette. 
 
-The program attempts to calculate elapsed wall time but it is not very
-accurate, so it's better to use an external clock when possible.[^1]
+An ideal test will run for 7 days straight. (Shugart says there should be
+no damage to the media from the pad or head after 3 × 10⁶ revolutions). 
+However, visible evidence of damage has been appearing in less than 24 hours.
 
-[^1]: For reasons not clear to me, the speed of my timing loop depends upon whether
+
+## Limitations
+
+* The program attempts to calculate elapsed wall time but it is not very
+accurate, so it's better to use an external clock when possible. For reasons
+not clear to me, the speed of my timing loop depends upon whether
 it is run automatically as the Apple II "HELLO" program or from the prompt.
 
-An ideal test will run for 7 days straight. 
+* The best metric for evaluation is not yet clear. Perhaps the ideal would be for the test rig to automatically compare the signal level on the track before and after the test. However, the disk controller does not make that information available to the Apple II and so multimeter or oscilloscope may be necessary. For now, visual estimates are being used along with minimal verification that the data has not been corrupted.
 
 ## Test results
 
