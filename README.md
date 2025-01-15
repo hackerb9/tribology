@@ -10,10 +10,18 @@ as best they can with what materials are now available.
 Currently there is a lack of 
 information about the correct replacement for the felt 
 pressure pad seen in single-sided disk drives used in
-early microcomputers. The pad which pushes 
+early microcomputers. The pad pushes 
 the rotating diskette against the read/write head
-and (intuitively) using the wrong material can lead
-to the disk wearing out prematurely.
+and there is a possibility that using the wrong material can lead
+to a disk wearing out prematurely, especially if they 
+are used as "flippy" disks.[^1] 
+
+[^1]: "Flippy disks" are disks that have a write-protect hole punched in them by 
+the end user so that they can be flipped over and both sides used 
+in a single-sided drive. Some pundits claim that
+flippy disks will 
+wear out the head because the disk will rotate backwards, spewing
+out the accumulated particles trapped in the filter material.
 
 At the time the drives were made (late 1970s to early 1980s), 
 professional research into the  wear properties was limited
