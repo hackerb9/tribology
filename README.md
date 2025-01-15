@@ -21,7 +21,7 @@ An ideal test will run for 7 days straight.
 
 ## Test results
 
-### Old (original?) felt pad in a Drive II
+### 0: Old (original?) felt pad in a Drive II
 
 | | |
 |-----|-----|
@@ -43,7 +43,7 @@ An ideal test will run for 7 days straight.
 Results: No noticeable difference. However, concentric rings at every track are noticeable under a microscope, so perhaps this floppy has already been worn down? 
 
 
-### Felt Pad #1: Punched from self stick felt pad
+### 1: Felt Pad: Punched from self stick felt pad
 
 | | |
 |-----|-----|
@@ -90,7 +90,7 @@ This is the same felt pad as in Trial 1-B, but after being removed, examined und
 
 No marks on felt side. No apparent new marks on head side.
 
-### Felt Pad #2: Punched from self stick felt pad
+### 2: Second Felt Pad: Punched from self stick felt pad
 
 | | |
 |-----|-----|
