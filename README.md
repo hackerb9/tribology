@@ -82,7 +82,7 @@ it is run automatically as the Apple II "HELLO" program or from the prompt.
 | Track # (of 40) | 12 |
 | Test summary | **Pass** |
 
-Results: No noticeable difference. However, concentric rings at every track are noticeable under a microscope, so perhaps this floppy has already been worn down? 
+Results: No noticeable difference. However, concentric rings at every track are visible under a microscope, so perhaps this floppy has already been worn down? 
 
 
 ### 1: Felt Pad: Punched from self stick felt pad
@@ -121,11 +121,11 @@ There do appear to be light etch marks visible only when held to the light, but 
 
 #### Trial 1-C
 
-This is the same felt pad as in Trial 1-B, but after being removed, examined under a microscope, and had the top layer and excess filaments trimmed off. The disk was the same from Trial 1-B since no marks had been left on the felt side. The drive head was also examined and cleaned. 
 
 | | |
 |-|-|
 | Test duration | 12 hours |
+This is the same felt pad as in Trial 1-B, but after being removed, examined under a microscope, and had the top layer and excess filaments trimmed off. The disk was the same from Trial 1-B since no marks had been left on the felt side. The drive head was also examined and cleaned. 
 | Testing method | [TRIBOLOGY.bas](TRIBOLOGY.bas) |
 | Track # (of 40) | 17 |
 | Test summary | **Pass** |
@@ -152,3 +152,26 @@ No marks on felt side. No apparent new marks on head side.
 | Test summary | **Fail** |
 
 Results: Track 30 has a faint, light ring on the side facing the felt. On the reverse (head) side, there is a prominent groove at track 30 which appears dark or light depending upon the angle of the light. 
+
+
+
+### 3: Old (original?) felt pad in a Drive II
+
+| | |
+|-----|-----|
+|Origin| Likely originally shipped with the Apple Drive II |
+| Material | Synthetic (melts instead of burning) |
+| Filament length | Short | 
+| Density | Firmly packed, coloration is yellowish brown, probably from age. |
+| Notes| This uses the same drive mechanism as the previous tests, but with a felt pad taken from a different drive. Unlike test 0, the floppy tested had never been used before.| 
+
+#### Trial 3-A
+
+| | |
+|-|-|
+| Test duration | >32 hours |
+| Testing method | [TRIBOLOGY.bas](TRIBOLOGY.bas) |
+| Track # (of 40) | 22 |
+| Test summary | **Pass** |
+
+Results: No marks whatsoever. This is a very strong indication that it is indeed the replacement felt pad that is causing the marks in tests 1 & 2 despite them being most prominent on the head side of the disk.
