@@ -93,6 +93,7 @@ Results: No noticeable difference. However, concentric rings at every track are 
 | Material | Synthetic (melts instead of burning) |
 | Filament length | Longer than original | 
 | Density | Loosely packed compared to original, but that may be because the original has been used for decades. |
+| Height | About twice the height of the original felt pad. |
 | Notes| This pad had fragments of dried glue which was removed under a microscope before testing. | 
 
 #### Trial 1-A
@@ -125,7 +126,7 @@ There do appear to be light etch marks visible only when held to the light, but 
 | | |
 |-|-|
 | Test duration | 12 hours |
-This is the same felt pad as in Trial 1-B, but after being removed, examined under a microscope, and had the top layer and excess filaments trimmed off. The disk was the same from Trial 1-B since no marks had been left on the felt side. The drive head was also examined and cleaned. 
+This is the same felt pad as in Trial 1-B, but after being removed, examined under a microscope, and had the top layer and excess filaments trimmed off, making it more the same size as the original felt pad. The disk was the same from Trial 1-B since no marks had been left on the felt side. The drive head was also examined and cleaned.  
 | Testing method | [TRIBOLOGY.bas](TRIBOLOGY.bas) |
 | Track # (of 40) | 17 |
 | Test summary | **Pass** |
@@ -152,8 +153,6 @@ No marks on felt side. No apparent new marks on head side.
 | Test summary | **Fail** |
 
 Results: Track 30 has a faint, light ring on the side facing the felt. On the reverse (head) side, there is a prominent groove at track 30 which appears dark or light depending upon the angle of the light. 
-
-
 
 ### 3: Old (original?) felt pad in a Drive II
 
