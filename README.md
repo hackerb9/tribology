@@ -116,9 +116,9 @@ This is the same felt pad as in Trial 1-A.
 | Test duration | >24 hours |
 | Testing method | [TRIBOLOGY.bas](TRIBOLOGY.bas) |
 | Track # (of 40) | 22 |
-| Test summary | **Pass** |
+| Test summary | **Pass** ??? |
 
-There do appear to be light etch marks visible only when held to the light, but they are on side A, which is touching the head, not the felt. These did not occur in Trial 1-A. Could the felt be pushing too hard? Could it be a density issue? Or is it a problem with this drive's head? 
+There do appear to be light etch marks visible only when held to the light, but they are on side A, which is touching the head, not the felt. These did not occur in Trial 1-A. Could the felt be pushing too hard since it is too tall? Could it be a density issue? Or is it a problem with this drive's head? 
 
 #### Trial 1-C
 
@@ -126,10 +126,10 @@ There do appear to be light etch marks visible only when held to the light, but 
 | | |
 |-|-|
 | Test duration | 12 hours |
-This is the same felt pad as in Trial 1-B, but after being removed, examined under a microscope, and had the top layer and excess filaments trimmed off, making it more the same size as the original felt pad. The disk was the same from Trial 1-B since no marks had been left on the felt side. The drive head was also examined and cleaned.  
+| Material, height, etc. | This is the same felt pad as in Trial 1-B, but after being removed, examined under a microscope, and had the top layer and excess filaments trimmed off, making it similar in size to the original felt pad. The disk was the same from Trial 1-B since no marks had been left on the felt side. The drive head was also examined and cleaned.  
 | Testing method | [TRIBOLOGY.bas](TRIBOLOGY.bas) |
 | Track # (of 40) | 17 |
-| Test summary | **Pass** |
+| Test summary | **Pass** ? |
 
 No marks on felt side. No apparent new marks on head side.
 
