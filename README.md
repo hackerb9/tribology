@@ -168,7 +168,7 @@ Results: Track 30 has a faint, light ring on the side facing the felt. On the re
 
 | | |
 |-|-|
-| Test duration | >48 hours |
+| Test duration | >72 hours |
 | Testing method | [TRIBOLOGY.bas](TRIBOLOGY.bas) |
 | Track # (of 40) | 22 |
 | Test summary | **Pass** |
