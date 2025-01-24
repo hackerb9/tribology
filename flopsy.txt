@@ -1,0 +1,491 @@
+	An archaeological excavation into Ashurbanipal's Library reveals
+	the exciting true story of the technology behind double-sided floppies,
+	as told by the language-lawyers themselves in excerpts from...
+
+In the Matter of
+
+CERTAIN DOUBLE-SIDED FLOPPY DISK.
+DRIVES AND COMPONENTS THEREOF
+
+Investigation No. 337-TA-215
+
+USITC PUBLICATION 1860
+
+MAY 1986
+
+United States International Trade Commission / Washington, DC 20436
+
+OSTRAKON THE FIRST
+----------------------------------------------------------------------
+
+
+B. Patent Infringement
+
+The ‘573 patent contains 16 claims, of which three (claims 1, 5, and 12) -
+are independent. Cx 601. It represents a mixture of two technologies used in
+earlier data storage devices; namely, the penetrating head of the tape drive
+and the air bearing head of the hard or rigid disk drive, Brown, Tr. 2522.
+
+Tape, a very pliant or limp material, is transformed into a flat stable
+surface in a tape drive when the data transfer head penetrates the plane of
+the tape, such that the tape wraps itself around the head resulting in close
+head to tape contact to enable accurate data transfer. The wrapping action
+provides contact over an area rather than a point and assures intimate contact
+even if there is slight misalignment between tape and magnetic core. 
+Stoddard, Tr. 4888-89; FF 235C. The transducer of a rigid disk drive is
+suspended on a gimbal spring so that it can move up or down, or pitch or roll
+in accordance with the tiny imperfections of the disk. This permits the disk
+and head to always maintain the same relationship for data transfer. The head
+in a rigid disk drive floats on a microscopically thin cushion of air so it
+will not abrade the disk and erase the stored data.
+
+In the device defined by the '573 patent, the lower head maintains a
+similar relationship with the pliant, limp, floppy disk as the tape head did
+with the tape. The penetration of the lower head into the plane of the Limp
+disk results in similar wrapping action as in a tape drive (Stoddard,
+Tr. 4495; Cx 601, col. 5, lines 43-47) and creates a flat stable surface for
+the upper head to slide against.[^4] The gimbal mounted upper head relates to
+the floppy disk as the gimbal mounted head does with the rigid disk. Brown,
+Tr. 2522-23.
+
+[^4]: Prior single-sided drives utilized spherical heads (Tandon Dep.,
+      MRPX 34, at 360; Stoddard Tr. 4538), but the Tandon patent specification
+      described a flat lower head (CX 601, col. 4, lines 7-11), which appears
+      necessary to the Tandon type head assembly. Tandon Dep., MRPX 34, 
+      at 184-85, 377; Stoddard, Tr. 4543-45.
+
+In the Tandon system,[^5] the lower head is not intended to move in normal
+operation. Tandon Dep., MRPX 34, at 414-15. The Tandon philosophy is to let
+the lower head set the reference plane for the disk. The reference plane is a
+relatively constant non-moving plane, a stable platform which makes head to
+disk compliance for the upper gimbal mounted head easier. Tandon Dep.,
+MRPX 34, at 472-73. As the heads are moved to the various radial tracks of
+the disk, the penetration of the lower head and wrapping action of the pliant
+disk, transform the disk into a rigid surface at the area where the lower head
+penetrates. FF 228.
+
+[^5]: The Tandon system refers to the three independent claims of the '573
+      patent that were grouped together by Tandon patent counsel in making the
+      amendments which resulted in the patent. Cx 611, at 53; FF 229, 235D-35M.
+
+
+OSTRAKON THE SECOND
+----------------------------------------------------------------------
+
+A. Background of the Invention.
+
+13. In 1964, the state-of-the-art drive was reel-to-reel tape
+drive. Soliman, Tr. 10-11.
+
+14. In 1964 or 1965, the industry pursued an information storage
+product called a magnetic card random access memory device. Sollman, Tr. 12.
+IBM also was working on a new storage device called a disk drive, using a
+rigid disk 30 inches in diameter. Sollman, Tr. 13-15.
+
+14A. The development of the floppy disk drive began in 1968 at IBM.
+The first floppy disk drive, the IBM Model 23 FD, was a read-only, oF
+single-sided machine used for program loading and included a spherical,
+stainless steel transducer or head on one side of the disk, a spring-loaded
+pressure pad on the other side of the disk opposite the head, a carriage for
+supporting these parts, and a carriage drive mechanism for moving the head
+along a radius of the disk to access the concentric data tracks. Dalziel,
+CX 822, 1.4; CX 601, col. 1, lines 15-36; Cx 643.
+
+14B. The IBM Model 23 FD is shown and described in U.S. Letters
+Patent No. 3,678,481 (Dalziel et al.) filed March 13, 1970. Dalziel, Cx 822,
+G4; Cx 643.
+
+14C. In conjuction with the 23 FD disk drive, IBM developed the
+first floppy ‘disk: drive in which a Mylar recording disk was enclosed in a
+square jacket or envelope with head and pressure pad access slots and central
+openings for receiving the drive hub and positioning cone. Both this
+“diskette” and the Single-sided floppy drive became worldwide-standards.
+Dalziel, CX 822, ¶ 4; CX 643.
+
+15. About in 1972 a floppy disk drive was being developed by 15 to 20
+different companies in the United States. Sollman, Tr. 31; see id., 23.
+
+16. U.S. Letters Patent No. 4,151,573 (the '573 patent) issued on
+April 24, 1979, from Application Serial No. 805,731 (the ‘731 application)
+filed June ‘13, 1977, and names Sirjang L. Tandon, Alfred C. Hackney, and
+Roy A. Appleauist as the joint inventors. The patent is entitled, “Magnetic
+Recording Device for Double-Sided Media.” Cx 601; see CX 611.
+
+17. Single-sided floppy disk drive systems were in use prior to the
+advent of double-sided floppy drives. The single-sided drives employ a single
+transducer for contacting the disk. On the opposite side from the transducer,
+and also in contact with the disk, was a felt pressure pad to press the disk
+against the transducer. Cx 601, col. 1, lines 20-36; Cx 643.
+
+18. The double-sided floppy disk drive described in the '573 patent
+includes in part a dual read/write head or transducer assembly for
+transferring data to and from the floppy disk, a central hub and spindle for
+gripping and rotating the disk, a front cover which may be pivoted open to
+permit insertion and removal of the disk, and a mechanism for positioning the
+transducer assembly to a selected radial track position. The floppy disk is
+enclosed within a protective cover jacket having access slots through which
+the transducers can come into contact with the opposed surfaces of the disk.
+CX 601, col. 3, lines 49-63.
+
+19. With reference to the specification and drawings of, the '573
+patent which describe and show an exemplary form of the patent, there is
+included a read/write transducer assembly comprising generally a carriage, a
+lower or first transducer (also called the side 0︀ transducer) for
+transferring data to and from one side of the disk, and an upper or second
+transducer (also called the side 1 transducer) which opposes the lower
+transducer and transfers data to and from the other side of the disk. cx 601.
+
+20. The lower side 0︀ transducer is mounted on the carriage while
+the upper side 1 transducer is mounted on a support arm that is coupled to the
+carriage by a flexure spring which serves as a pivot for the support arm.
+CX 601.
+
+21. A torsional spring loads the support arm towards the carriage
+thereby urging the upper side 1 transducer towards the disk and the opposed
+lower side 0︀ transducer. Cx 601.
+
+22. The upper head is mounted at the end of a short length gimbal
+spring that permits the upper transducer to pitch and roll in response to the
+tendencies of the disk to deflect. Cx 601.
+
+23. In November 1976, IBM introduced the world's first double~sided
+floppy disk drive. Sollman, Tr. 60-61.
+
+24. The diskettes for the IBM double-sided disk drive were coated
+on both sides. The disk drive placed two heads, one on each side of the
+diskette, in contact or near-contact with the diskette. The heads were both
+cantilevered and the diskette would flow between them. Sollman, Tr. 61-62.
+
+25. Mr. James T. Engh, director of the double-sided floppy disk
+drive program at IBM, summarized the double-sided floppy development work at
+IBM in an article entitled "The IBM Diskette and Diskette Drive” published in
+the September 1981, IBM Journal of Research and Development. Engh, Tr. 902,
+916; CX 664.
+
+26. The IBM double-sided head assembly is described in the '573
+patent under the “Background of the Invention." That description, in
+pertinent part, states:
+
+    Recently, however, the floppy disc industry has started to
+    use both sides of the floppy disc for data transfer operations,
+    the purpose primarily being to increase capacity. Thus only a
+    single relatively low speed accessing mechanism continues to be
+    employed, and the transducers on opposite sides of the element
+    are in a generally opposed relation, with only a slight offset
+    in the head gaps to avoid flux interaction. Because it is
+    thought necessary to account for perturbations in movement of
+    the flexible disc from its principal plane, recording heads and
+    mounts are utilized that are essentially derived from the flying
+    head technology. Specifically, a pair of small identical slider
+    heads are used, each mounted adjacent the end of a long
+    resilient cantilevered head support, and mechanically urged
+    together with a total force of approximately 8 grams. The
+    concept is that as the flexible disc deviates from its principal
+    plane, both of the heads tend to follow the actual position of
+    the disc passing between them and permit contact recording
+    without excessive wear or signal degradation.
+
+Cx 601, col. 1, lines 37-57.
+
+27. At the time of the invention of the '573 patent, the IBM
+approach was considered by those in the industry to be the only practical,
+approach to achieving double-sided floppy disk recording and reproduction.
+Comstock, Tr. 1510-11.
+
+28. In the Tandon patent, the IBM double-sided head assembly was
+described as having significant deficiencies:
+
+    There are, however, significant problems and limitations
+    arising from the use of this double, symmetrical and very
+    compliant head mechanism. The resilient mounts are relatively
+    complex and must be precisely manufactured, and therefore are
+    costly to manufacture and maintain. Furthermore, they require
+    redesign, by each floppy disc manufacturer, of the carriage,
+    head support mechanisms and associated structure, because [sic]
+    they have volumetric configurations incompatible with current
+    structures. In addition, the head loading force and the
+    mechanical configuration require that special provision be made
+    to insure that the head does not constantly land at the same
+    point and thereby cause undue wear. In addition, the long
+    flexible columns used in the existing type of structure tend to
+    bend in a slight S shape or shift differentially in response to
+    perturbations in the disc surface position. This introduces
+    both a degree of offset relative to the track center, reducing
+    reproduced signal amplitude and tending to limit the positional
+    accuracy which can be obtained, which in turn limits the track
+    density which can be achieved. Furthermore, the two resiliently
+    mounted heads do not settle quickly into operative relation,
+    once landed on the disc, and this delay must be taken into
+    account before data transfer operations can begin. Of great.
+    importance from the standpoint of the floppy disc systems
+    manufacturer is the fact that he not only cannot use a portion
+    of his existing inventory for heads and carriages, but must
+    redesign a portion of his system for the new double-sided
+    configuration.
+
+Cx 601, col. 1, line 62 to col. 2, line 24.
+
+29. The IBM approach was also the subject of the declarations of
+two engineers filed in support of the '573 patent. According to these
+declarations, the IBM product was, among other things, subject to positioning
+errors and “column buckling,” and was complex and difficult to manufacture.
+Muelners Decl., CX 611 (Feb. 28, 1978); Smith Decl., Cx 611 (Feb. 28, 1978).
+
+30. The difficulties encountered by IBM in the manufacture of the
+IBM double-sided transducer assembly are described in IBM U.S. Letters Patent
+No. 4,263,630. This patent indicates that special fabrication techniques had
+to be adopted by IBM to assure that the transducer suspensions were precisely
+symmetrical and that they would bear against the disk with uniform forces.
+CX 651.
+
+31. IBM U.S. Letters Patent No. 4,202,020 relates to a control
+system for randomizing the loading and unloading of the IBM double-sided
+floppy disk drive transducer assembly to overcome the media wear problems
+caused by the IBM transducer assembly. CX 649.
+
+32. The device embodied in the Tandon patent solved the problems
+encountered by the IBM double-sided disk drive by providing an asymmetrical
+transducer assembly in which one of the transducers is used as a fixed
+positional reference for the floppy disk. Comstock, Tr. 394; CX 601, col. 2,
+lines 44-52.
+
+33. The essence of the '573 patent is that the lower or side 0︀
+head is in a fixed position with respect to the nominal plane of the disk so
+that it provides a reference surface for the pliant disk. Comstock, Tr. 1494.
+
+34. The invention described by the '573 patent is substantially
+simpler, less costly, easier to maintain, and more stable and reliable in
+operation than the IBM-type two-sided transducer structure and solved the
+“column buckling" problem. Smith, Tr. 2316; Muelner Decl., Cx 611, 16
+(Feb. 28, 1978); Smith Decl., Cx 611, 1 6 (Feb. 28, 1978).
+
+35. The disk is very pliant and limp, and acts almost like a tape.
+The envelop gives the disk support. Comstock, Tr. 1583.
+
+36. The following excerpt from Electronic News, July 10, 1979,
+states:
+
+    Some Firms Drop IBM 2-sided Floppy Head Design
+
+    Magnetic head problems that have severely impacted sales of
+    double-sided floppy disc drives ... have forced several OEM
+    vendors to turn to a head design different from IBM's,
+    long-considered the defacto industry standard.
+
+    CalComp, Pertec and Siemens are among the firms that have
+    topped using the IBM head design and have begun using the
+    design developed jointly by Tandon Magnetics and CalComp.
+    These firms claimed the IBM design, which uses two floating
+    heads [to] read and record data is less efficient and more
+    expensive to make.
+
+			* * *
+
+    Industry observers have said the media wear problem has
+    been the main reason double-sided sales have not been
+    anywhere near what experts had expected. Suppliers
+    admitted being at least nine months behind schedule for
+    double-sided.
+
+    The Tandon design incorporates a fixed head for reading and
+    recording on the bottom of the diskette and a floating head
+    at the top of the diskette. Its supporters claim that even
+    if the problems in the IBM have been solved the Tandon head
+    is still the more attractive alternative.
+
+			    * * *
+
+    Terry J. Hardie, Product Sales Manager at CDC, said the
+    primary problems with the IBM design have been during the
+    loading and unloading of the heads. He said because of the
+    design the heads continuously loaded and unloaded at the
+    same spot on the diskette, causing quick media wear.
+
+    Mr. Hardie said CDC has attempted to solve the problem by
+    softening the force which is required to load and unload.
+
+Cx 640.
+
+37. The following excerpt from an article appearing in Systems
+International, April 1980, and entitled "Mini-Floppy Disk Drives," states:
+
+    The double-sided r/w head for floppy disc drives was first
+    introduced by IBM and soon taken up by other companies. It was
+    a dual flexure head by which is meant that both sides of the r/w
+    head moved when it was loaded on the floppy disc . . . . The
+    idea behind using a dual flexure head was its apparent ability
+    to allow each head to follow closely the contours of the media
+    on both sides of the floppy disc. Tests indicated that early
+    designs did not meet the ‘tap-tap' test, wherein the head is
+    repeatedly loaded on the same spot on the rotating disc. The
+    highly dual flexure head had the tendency not to land flat:
+    sharp edges of the head would cut into the mylar of the disc.
+
+    In addition, when the head made contact with the media it would
+    rebound. several times before settling. Tap-tap tests were
+    showing media damage after a short period of operation. A more
+    succeasful design was later introduced by Tandon Magnetics.
+    This company designed a single flexure head . . . which after
+    some final refinements worked well and eliminated the severe
+    media wear of the dual flexure head. Many double sided disc
+    vendors today utilize Tandon.
+
+CX 633, at 44.
+
+OSTRAKON THE THIRD
+----------------------------------------------------------------------
+
+162. The floppy disk used with disk drives are very pliant and can
+be strongly influenced by small forces. Clamping of the disk by the hub of
+the spindle drive can send wrinkles through the disk and those wrinkles can be
+different from one clamping to another. Accordingly, when the disk is
+inserted and clamped, one may see a wide range of variation in the disk
+waviness. The disk was inserted in the drive and clamped.
+
+OSTRAKON THE FOURTH
+----------------------------------------------------------------------
+
+190. In-a floppy disk drive, it is important to avoid resonance
+because it can affect the alignment of the transducer and track and can
+influence the wear of the disk. In tracking down these resonances, it is
+helpful to know the frequency of the vibration so that the source of the
+vibraticn can be traced back to particular elements in the system. Comstock,
+Tr. 4101-03.
+
+191. The resonance phenomenon applies to all floppy disk drives
+generally. Comstock, Tr. 4103.
+
+OSTRAKON THE FIFTH
+----------------------------------------------------------------------
+
+There is general agreement among all the technical experts that there are
+two types of disk movements away from the nominal plane of the disk, and that
+these movements exert "substantial" forces on the heads while in operation;
+large scale waviness, sometimes referred to as undulations, and small scale
+Movements such as manufacturing imperfections and variations in the thickness
+of the media. Brown, Tr. 2628, 2630; Hayashi, Tr. 2848-49; Lewis, Tr. 2892.
+In each of the systems, the two heads and the disk make up a sandwich. Each
+head plays a role in providing close and stable head to disk compliance.
+Comstock, Tr. 1552; Lewis, Tr. 2887; Brown, Tr. 2523.
+
+The heads are loaded upon the disk through arms and springs, cooperating
+with the head mountings to bring the transducers into data transfer
+relationship with the disk. Stoddard, Tr. 4526-27; Tandon Dep., MRPX 34, at
+428-29; Hackney Dep., MRPX 36, at 24. The '573 patent specification makes
+clear that these loading forces are separate from the force exerted by the
+fixed positional reference: "The slight wrapping of the pliant disc about the
+surface of the fixed transducer provides a part the function of insuring close
+or contacting relation, and _the remainder of the cor[r]ective action needed is
+supplied by the force of the slider transducer_." (Emphasis added.) Cx 601,
+col. 5, lines 43-47; see Tandon Dep., MRPX 34, at 182-183. The load arm is an
+important part of the design. Hackney Dep., MRPX 36, at 116-18. The loading
+forces of the arms transmitted into the disk through the heads play a more
+significant role in dealing with unwanted disk movement then the penetrating
+lower head. Comstock, Tr. 5246-47. These loading forces eliminate the large
+scale waviness of the disk. Hayashi, Tr. 4282; FF 221. After the large scale
+movements are eliminated, the heads can either iron out the small scale
+variations in the disk, or move in response to disk motion to accommodate
+these variations.
+
+OSTRAKON THE SIXTH
+----------------------------------------------------------------------
+
+			    PUBLIC VERSION
+
+		   CONFIDENTIAL INFORMATION DELETED
+
+				  6
+
+2-3 Marunouchi 2-chome, Chiyoda-ku, Tokyo 100. Mitsubishi Electronics
+America, Inc., is a subsidiary of Mitsubishi Electric Corporation and has
+offices at 911 Knox Street, Torrance, California 90502.
+
+     The Articles Under Investigation and the Patented Invention
+
+A. Background of the invention
+
+The articles under investigation are double-sided floppy disk drives.
+Floppy disk drives are data storage systems that utilize a floppy disk as the
+magnetic storage surface. Floppy disks are made of limp material and have a
+magnetic coating.
+
+The drives utilize transducers, also referred to as “heads,” which
+“read/write” information from the disk. The transducers contain magnetic
+cores. In a double-sided floppy disk drive system the disk is sandwiched
+between two transducers. The transducers are mounted on supports. The
+transducers and supports are known as the head assembly. Contact between the
+transducers and the disk must be extremely close and the drive must deal with
+the undulations and waviness of the disk. If close contact between the disk
+and the transducer is not maintained, error in data transfer results.[^15] [^16]
+
+Floppy disks and drives come in three sizes--8-inch, 5-1/4 inch, and
+3-1/2 inch--corresponding to the diameter of the disk. The trend in the disk
+drive industry is toward smaller drives. Although there is still a
+replacement market for 8-inch drives, they are practically obsolete.
+Currently 5-1/4 inch drives are the most widely sold size of drive. The 3-1/2
+inch drive is projected to be a large seller in the near future. [^17]
+
+____
+[^15]: For example, in the Mitsubishi drive a gap greater than 0.32 microns
+       between the transducers and the disk produces unacceptable error.
+       TR 2847.
+
+[^16]: A more complete description of disk drive technology is in the
+       Initial Determination (ID) at 13-15.
+
+[^17]: ID at 145-47.
+____
+
+Double-sided floppy disk drives are manufactured in two heights: full
+height and half-height, full height drives being twice the height of
+half-height drives. Most double-sided disk drives sold today are half-height
+drives.
+
+The '573 patent [^18] was issued to Sirjang Tandon, Alfred Hackney, and
+A. Applequist on April 24, 1979, and is currently assigned to Tandon
+Corporation. Tandon has granted licenses under the '573 patent to IBM,
+Control Data Corporation (CDC), Shugart Associates, and Texas Peripherals,
+Inc. (TP). The '573 patent discloses a data storage system that utilizes
+a head assembly for double-sided floppy disk drives.
+Prior to the development of floppy disk drives, tape drives were commonly
+used. Tape drives transfer data from flexible tape by utilizing a
+non-gimballed transducer which forces the tape to wrap around the
+transducer. [^19] Another type of drive is the rigid disk drive. The rigid
+disk drive utilizes a transducer mounted on a gimbal or floating spring. [^20]
+Early floppy disk drives were single-sided disk drives, i.e., the drives
+had only one transducer. IBM developed one of the first single-sided floppy
+disk drives. [^21] IBM also worked on the development of double-sided drives.
+An early IBM double-sided floppy disk drive employed two gimballed
+transducers. In this early IBM drive both transducers were gimbal mounted and
+the transducers followed the movements of the disk. [^22] IBM and others
+experienced difficulties in the development of double-sided disk drives
+because of wear problems associated with the magnetic coating on the disk
+which diminished the accuracy of data storage and access.
+
+____
+[^18]: The ‘573 patent is reproduced in the Appendix.
+
+[^19]: ID at 31-32.
+
+[^20]: Webster's Ninth New Collegiate Dictionary defines “gimbal” as a device
+       that permits a body to freely incline in any direction or suspends it so
+       that it will remain level when its support is tipped. See also FF 235N.
+
+[^21]: FF 13-14C.
+
+[^22]: CX 646 and CX 611 at 53.
+____
+
+The invention disclosed in the '573 patent overcame the problems
+associated with the prior art devices by utilizing an asymmetrical head
+assembly. [^23] The claimed invention combines rigid disk drive technology and
+tape drive technology. In the device disclosed in the '573 patent the lower
+transducer acts as a reference plane for the pliant disk and the upper
+transducer is gimbal mounted and is urged against the disk. [^24]
+
+[^23]: CX 601, col. 2, lines 48-60.
+
+[^24]: Id.
+
+
+
